@@ -1,0 +1,1 @@
+/Users/duxiaodong/BuildSrcDemo/buildSrc/build/classes/kotlin/main/Libs.class:/Users/duxiaodong/BuildSrcDemo/buildSrc/build/classes/kotlin/main/Versions.class
